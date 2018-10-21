@@ -56,6 +56,7 @@ public class DataUnits {
 			} 
 
 		}
+		//will return number of duplicates + 1, 1 being the name checked against itself
 		return counter;
 	}
 
